@@ -1,4 +1,4 @@
-# Docker Final Task - BitCoin Values
+# Docker Final Task - BitCoin 
 
 Create a Python Web APP using FLASK that:  
 ● Presents the Current BitCoin Price (LIVE)  
