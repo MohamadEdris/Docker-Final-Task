@@ -19,7 +19,8 @@ Redis' speed makes it ideal for caching database queries, complex computations, 
 #### Streaming & messaging
 The stream data type enables high-speed data ingestion, messaging, event sourcing, and notifications.
 
-<img width="932" alt="image" src="https://user-images.githubusercontent.com/73100170/179393336-18aef824-750b-40db-8176-fe4a12001a3a.png">
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/73100170/179393390-b8cb727c-8e35-48e4-966c-afaaaea00d4b.png">
+
 ## Run Locally
 
 Clone the project
