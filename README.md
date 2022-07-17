@@ -60,3 +60,6 @@ Create a token from Docker to push the image to Docker Hub and set the token in 
 
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/73100170/179394003-2fcde036-3d7a-4aa6-b8e6-eac389908beb.png">
 
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/73100170/179398581-572c5543-e1b3-4100-a784-e87b9bd36e06.png">
+
+
