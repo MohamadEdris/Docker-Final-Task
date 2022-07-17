@@ -46,3 +46,10 @@ Run
 ```bash
   http://localhost:8003/
 ```
+
+Stop App Run
+
+```bash
+  docker compose down
+```
+
