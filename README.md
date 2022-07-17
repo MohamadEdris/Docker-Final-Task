@@ -53,3 +53,10 @@ Stop App Run
   docker compose down
 ```
 
+## Jenkins Pipeline
+
+Used Jenkins to build and publish the application to Docker Hub.
+Create a token from Docker to push the image to Docker Hub and set the token in the Jenkins credentials.
+
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/73100170/179394003-2fcde036-3d7a-4aa6-b8e6-eac389908beb.png">
+
